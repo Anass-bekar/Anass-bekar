@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anass-bekar
-- 👀 I’m interested in cybersecurity and cryptocurrency/stocks investments
+- 👀 I’m interested in red teaming and pentesting
 - 🌱 I’m currently working on red team engagements and infrastructure engineering
 - 💞️ I’m looking to collaborate on any type of project
-- 📫 How to reach me { email : anas.bekar2@aiesec.net}
+- 📫 How to reach me { email : anass.bekar2@gmail.com}
